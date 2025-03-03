@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-export default function Scale() {
+export default function ScalePage() {
   return (
     <div>
       <h1>Scale</h1>

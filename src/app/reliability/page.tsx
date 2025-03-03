@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-export default function Reliability() {
+export default function ReliabilityPage() {
   return (
     <div>
       <h1>Reliability</h1>
